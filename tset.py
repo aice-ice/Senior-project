@@ -10,4 +10,8 @@ y = 2 * x  + 1
 
 plt.plot(x, y)
 plt.scatter(data[:, 0], data[:, 1])
+plt.xlabel('x')
+plt.ylabel('y')
+plt.xlim(0, 10)
+plt.yticks([0, 5, 10, 15, 20])
 plt.show()
