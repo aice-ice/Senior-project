@@ -15,5 +15,5 @@ idea
 　
 
 - [Open with Colab](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/regression.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/peaceiris/emoji-ime-dictionary/blob/master/generate.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/generate.ipynb)
 
