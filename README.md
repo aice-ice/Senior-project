@@ -14,6 +14,6 @@ idea
 　　自分の勉強する部分を全部入れるかは要検討
 　
 
-- [Open with Colab](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/regression.ipynb)
+- [単回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/regression.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/regression.ipynb)
 
