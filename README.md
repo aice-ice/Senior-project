@@ -1,15 +1,9 @@
-# Senior-project
-Creation of hands-on learning materials
 
-学習パートと実践パートに分ける。
-　実践パートでは問題形式で出題する
+- [1-1.単回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single_regression.ipynb)
 
-基本的には数式をコードに落とすレベルの実相をするが
-長すぎるものや発展的なものはライブラリやこちらで用意した関数を使用してもらう。
+- [1-2.重回帰](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multiple_regression.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multiple_regression.ipynb)
 
-idea 
-　コードはプルダウンでも良きかも
-　動機付けはトピックごとで
-　数学的要素をどこまで入れるかは過大
-　　自分の勉強する部分を全部入れるかは要検討
-　
+- [2-1.2値分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
