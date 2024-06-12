@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+from sklearn.datasets import fetch_california_housing
 
 
 # rng = np.random.default_rng(123)
@@ -46,4 +47,10 @@ for i, x in enumerate(data[:, 0]):
 ax.set_xlabel(r'$x$', fontsize=15)
 # ax.set_ylabel(r'$y$', fontsize=15)
 
-plt.show()
+# plt.show()
+
+
+dataset = fetch_california_housing(as_frame=True)
+df = dataset.frame
+df['Price'] = dataset.target
+print(dataset.DESCR)
