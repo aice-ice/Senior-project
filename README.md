@@ -15,5 +15,20 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single.ipynb)
 
 始め方 \
-１．googleアカウントへログインしていない場合、下記からログインする。\
+1.googleアカウントへログインしていない場合、下記からログインする。\
 https://takeout.google.com/?hl=ja \
+
+2.上記の学習したい教材へアクセスする。\
+
+3.ドライブへコピーを選択。これにより教材内のコードなどを自身で編集して実行することができます。
+
+### google colabの仕様には以下の事項に注意してください。
+ - 1つのアカウントで複数のNotebookを開いている場合、コードを実行できるのは3つまでです。
+ - 90分間何の操作もしないまま放置する、または120分の経過で以下のものが初期化されます。
+    - 実行中のプログラム
+    - importされたライブラリ
+    - 使用した変数
+    - !pip install や $wget などのコマンド
+    - GogleColabへアップロードしたファイル
+    - GoogleDriveのマウントの解除
+
