@@ -13,3 +13,7 @@
 
 - [single_test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single.ipynb)
+
+始め方
+１．googleアカウントへログインしていない場合、下記からログインする。
+[![サインイン](https://takeout.google.com/?hl=ja)]
