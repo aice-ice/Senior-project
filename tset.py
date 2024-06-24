@@ -28,8 +28,10 @@ a = 2
 b = 1
 
 x = np.arange(0, 10, 0.1)
-y = a * x + b
+y1 = a * x + b
+y2 = np.mean(data[:, 1])
 
+print(y2)
 # fig = plt.figure(figsize=(8, 5))
 # ax = fig.add_subplot(111)
 
@@ -57,11 +59,11 @@ y = a * x + b
 # df['Price'] = dataset.target
 # print(dataset.DESCR)
 
-diabetes = datasets.load_diabetes()
+# diabetes = datasets.load_diabetes()
 
-df = pd.DataFrame(diabetes.data, columns=diabetes.feature_names)
+# df = pd.DataFrame(diabetes.data, columns=diabetes.feature_names)
 
-X = pd.concat([pd.Series(np.ones(len(df['bmi']))), df.loc[:, ['bmi', 's5']]], axis=1, ignore_index=True).values
-y = diabetes.target
+# X = pd.concat([pd.Series(np.ones(len(df['bmi']))), df.loc[:, ['bmi', 's5']]], axis=1, ignore_index=True).values
+# y = diabetes.target
 
-print(X)
+# print(X)
