@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from sklearn import datasets
 import pandas as pd
 import seaborn as sns
-
+import urllib.request
 
 # rng = np.random.default_rng(123)
 # data = np.array([[4, 15], [6, 8], [5, 17], [8, 15], [3, 1]])
@@ -67,3 +67,8 @@ print(y2)
 # y = diabetes.target
 
 # print(X)
+
+url = 'https://book.mynavi.jp/support/e2/9784839965259/df_samplefiles.zip'
+path = R"C:\Users\eu21052\Desktop\Python\df_samplefiles.zip"
+
+urllib.request.urlretrieve(url, path)
