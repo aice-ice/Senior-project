@@ -31,7 +31,7 @@ x = np.arange(0, 10, 0.1)
 y1 = a * x + b
 y2 = np.mean(data[:, 1])
 
-print(y2)
+# print(y2)
 # fig = plt.figure(figsize=(8, 5))
 # ax = fig.add_subplot(111)
 
@@ -68,7 +68,13 @@ print(y2)
 
 # print(X)
 
-url = 'https://book.mynavi.jp/support/e2/9784839965259/df_samplefiles.zip'
-path = R"C:\Users\eu21052\Desktop\Python\df_samplefiles.zip"
+# url = 'https://book.mynavi.jp/support/e2/9784839965259/df_samplefiles.zip'
+# path = R"C:\Users\eu21052\Desktop\Python\df_samplefiles.zip"
 
-urllib.request.urlretrieve(url, path)
+# urllib.request.urlretrieve(url, path)
+
+data = np.array(np.sin(np.radians([20, 80, 110, 190, 210])))
+
+x = np.array([[data[i] ** j for j in range(8)] for i in range(len(data))])
+
+print(np.linalg.det(x.T @ x))
