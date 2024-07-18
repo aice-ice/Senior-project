@@ -89,6 +89,7 @@ def poly(intercept, coef, x):
     return intercept + sum([w * x**(n + 1) for n, w in enumerate(coef)])
 
 rnd.seed(0)
+np.random.seed(0)
 xmin, xmax = -5, 5
 xlim_min, xlim_max = -20, 20
 ylim_min, ylim_max = -1, 30
@@ -111,7 +112,7 @@ axs_1d = axs.reshape(1, -1)[0]
 linreg = LinearRegression()
 
 x_graph = np.linspace(xlim_min, xlim_max)
-
+w_df = pd.DataFrame()
 for ax, n_terms in zip(axs_1d, n_terms_list):
     linreg.fit(df.iloc[:, 1:n_terms+1], df['y'])
     y_linreg = poly(linreg.intercept_, linreg.coef_, x_graph)
@@ -124,4 +125,7 @@ for ax, n_terms in zip(axs_1d, n_terms_list):
     ax.set_aspect('equal')
     ax.legend(loc='upper left')
 
+    print(f'w_{n_terms} : {np.linalg.norm(linreg.coef_)}')
+
 plt.show()
+
