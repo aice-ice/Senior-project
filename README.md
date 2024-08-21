@@ -8,6 +8,9 @@
 - [2-1.2値分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/binary_classification.ipynb)
 
+- [2-2.多クラス分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+
 - [test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 
