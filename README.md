@@ -11,6 +11,11 @@
 - [2-2.多クラス分類](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
 
+- [2-3.サポートベクタマシン](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
+
+- [3-1. 非階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
 - [test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 
