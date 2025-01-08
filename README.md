@@ -14,8 +14,14 @@
 - [2-3.サポートベクタマシン](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/support_vector.ipynb)
 
-- [3-1. 非階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/multinomial_classification.ipynb)
+- [3-1. 非階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/non-hierarchical_cluster_analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/non-hierarchical_cluster_analysis.ipynb)
+
+-[3-2. 階層的クラスタリング](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/hierarchical_cluster_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/hierarchical_cluster_analysis.ipynb)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/hierarchical_cluster_analysis.ipynb)
+
+-[4-2. 主成分分析](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/principal_companent_analysis.ipynb)
+[![Open in Colab](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/principal_companent_analysis.ipynb)]
 - [test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 
