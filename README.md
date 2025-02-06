@@ -25,7 +25,7 @@
 - [test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/test.ipynb)
 
-- [single_test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single.ipynb)
+- [single_test](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/n.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aice-ice/Senior-project/blob/master/single.ipynb)
 
 始め方 \
